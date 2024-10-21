@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002806125877",
+    "project_id": "cabinet-indonesia-app",
+    "storage_bucket": "cabinet-indonesia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002806125877:android:badafc4089f00921d5d87c",
+        "android_client_info": {
+          "package_name": "com.example.kabinet_indonesia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuxRmwi_bU_CYpH-IAU2wrmb2bBWpV9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

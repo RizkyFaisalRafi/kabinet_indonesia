@@ -1,0 +1,845 @@
+{
+        "daftar_kabinet": [
+                {
+                        "id": "1",
+                        "nama_kabinet": "Kabinet Indonesia Maju",
+                        "periode": "2019-2024",
+                        "presiden": "Joko Widodo",
+                        "wakil_presiden": "Ma'ruf Amin",
+                        "image_presiden": "https://setkab.go.id/wp-content/uploads/2019/10/RI1-COMPRESS-1.jpg",
+                        "image_wakil": "https://setkab.go.id/wp-content/uploads/2019/10/RI2-COMPRESS.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Muhammad Lutfi",
+                                        "jabatan": "Menteri Perdagangan",
+                                        "tanggal_dilantik": "23 Desember 2020",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "16 Agustus 1969",
+                                        "pendidikan": "Bachelor of Science, California State University",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2023/08/LUTFI-182x230.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Sri Mulyani Indrawati",
+                                        "jabatan": "Menteri Keuangan",
+                                        "tanggal_dilantik": "27 Juli 2016",
+                                        "profil": {
+                                        "tempat_lahir": "Bandar Lampung",
+                                        "tanggal_lahir": "26 Agustus 1962",
+                                        "pendidikan": "PhD in Economics, University of Illinois",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/11-SRI-MULYANI-INDRAWATI-MENTERI-KEUANGAN-182x230.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Prabowo Subianto",
+                                        "jabatan": "Menteri Pertahanan",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "17 Oktober 1951",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/08-PRABOWO-MENTERI-PERTAHANAN-235x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Nadiem Anwar Makarim",
+                                        "jabatan": "Menteri Pendidikan dan Kebudayaan",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Singapura",
+                                        "tanggal_lahir": "4 Juli 1984",
+                                        "pendidikan": "MBA, Harvard Business School",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/12-NADIEM-MAKARIM-MENTERI-PENDIDIKAN-DAN-KEBUDAYAAN-233x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Erick Thohir",
+                                        "jabatan": "Menteri BUMN",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "30 Mei 1970",
+                                        "pendidikan": "MBA, National University",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/29-ERICK-THOHIR-MENTERI-BADAN-USAHA-MILIK-NEGARA-234x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Budi Gunadi Sadikin",
+                                        "jabatan": "Menteri Kesehatan",
+                                        "tanggal_dilantik": "23 Desember 2020",
+                                        "profil": {
+                                        "tempat_lahir": "Bogor",
+                                        "tanggal_lahir": "6 Mei 1964",
+                                        "pendidikan": "Nuclear Physics, ITB",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2020/12/20201222-menker-budi-gunadi-230x230.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Yasonna H. Laoly",
+                                        "jabatan": "Menteri Hukum dan HAM",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Tapanuli Tengah",
+                                        "tanggal_lahir": "27 Mei 1953",
+                                        "pendidikan": "LL.M, Virginia University",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/10-YASONNA-H.-LAOLY-MENTERI-HUKUM-DAN-HAK-ASASI-MANUSIA-233x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Sandiaga Salahuddin Uno",
+                                        "jabatan": "Menteri Pariwisata dan Ekonomi Kreatif",
+                                        "tanggal_dilantik": "23 Desember 2020",
+                                        "profil": {
+                                        "tempat_lahir": "Riau",
+                                        "tanggal_lahir": "28 Juni 1969",
+                                        "pendidikan": "MBA, George Washington University",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2023/08/SANDIAGA-237x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Siti Nurbaya Bakar",
+                                        "jabatan": "Menteri Lingkungan Hidup dan Kehutanan",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "28 Agustus 1956",
+                                        "pendidikan": "PhD in Environmental Management",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/23-SITI-NURBAYA-MENTERI-LINGKUNGAN-HIDUP-DAN-KEHUTANAN-233x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Mochamad Basuki Hadimuljono",
+                                        "jabatan": "Menteri Pekerjaan Umum dan Perumahan Rakyat",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Surakarta",
+                                        "tanggal_lahir": "5 November 1954",
+                                        "pendidikan": "PhD in Civil Engineering",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/19-BASUKI-HADIMULJONO-MENTERI-PEKERJAAN-UMUM-DAN-PERUMAHAN-RAKYAT-235x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Ida Fauziyah",
+                                        "jabatan": "Menteri Ketenagakerjaan",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Madura",
+                                        "tanggal_lahir": "16 Juli 1969",
+                                        "pendidikan": "Bachelor in Social Politics",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/15-IDA-FAUZIYAH-MENTERI-TENAGA-KERJA-222x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Suharso Monoarfa",
+                                        "jabatan": "Menteri PPN/Kepala Bappenas",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Madiun",
+                                        "tanggal_lahir": "31 Oktober 1954",
+                                        "pendidikan": "Master in Economics",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/27-SUHARSO-MONOARFA-MENTERI-PERENCANAAN-PEMBANGUNAN-NASIONA-KEPALA-BADAN-PERENCANAAN-PEMBANGUNAN-NASIONAL-234x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Tri Rismaharini",
+                                        "jabatan": "Menteri Sosial",
+                                        "tanggal_dilantik": "23 Desember 2020",
+                                        "profil": {
+                                        "tempat_lahir": "Kediri",
+                                        "tanggal_lahir": "20 November 1961",
+                                        "pendidikan": "Bachelor in Architecture",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2023/08/RISMAHARINI-237x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Muhammad Tito Karnavian",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "23 Oktober 2019",
+                                        "profil": {
+                                        "tempat_lahir": "Palembang",
+                                        "tanggal_lahir": "26 Oktober 1964",
+                                        "pendidikan": "PhD in Strategic Studies",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2019/10/06-TITO-KARNAVIAN-MENTERI-DALAM-NEGERI-233x300.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Zulkifli Hasan",
+                                        "jabatan": "Menteri Perdagangan",
+                                        "tanggal_dilantik": "15 Juni 2022",
+                                        "profil": {
+                                        "tempat_lahir": "Lampung",
+                                        "tanggal_lahir": "17 Mei 1962",
+                                        "pendidikan": "Economics, Universitas Indonesia",
+                                        "image": "https://setkab.go.id/wp-content/uploads/2022/06/ZULKIFLI-HASAN-180x230-1.jpg"
+                                        }
+                                }
+                        ]
+                },
+
+                {
+                        "id": "2",
+                        "nama_kabinet": "Kabinet Kerja",
+                        "periode": "2014-2019",
+                        "presiden": "Joko Widodo",
+                        "wakil_presiden": "Jusuf Kalla",
+                        "image_presiden": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joko_Widodo_2014_official_portrait.jpg/150px-Joko_Widodo_2014_official_portrait.jpg",
+                        "image_wakil": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jusuf_Kalla_Vice_President_Portrait_2014.jpg/150px-Jusuf_Kalla_Vice_President_Portrait_2014.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Puan Maharani",
+                                        "jabatan": "Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "6 September 1973",
+                                        "pendidikan": "Sosial Politik, UI",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Puan_Maharani%2C_Ketua_DPR_RI.jpg/330px-Puan_Maharani%2C_Ketua_DPR_RI.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Rini M. Soemarno",
+                                        "jabatan": "Menteri BUMN",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Maryland, AS",
+                                        "tanggal_lahir": "9 Juni 1958",
+                                        "pendidikan": "Bachelor of Economics",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kabinet_Kerja_Rini_M.Soemarno.jpg/113px-Kabinet_Kerja_Rini_M.Soemarno.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Susi Pudjiastuti",
+                                        "jabatan": "Menteri Kelautan dan Perikanan",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Pangandaran",
+                                        "tanggal_lahir": "15 Januari 1965",
+                                        "pendidikan": "SMA Negeri 1 Yogyakarta",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Susi_Pudjiastuti.jpg/405px-Susi_Pudjiastuti.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Retno Lestari Priansari Marsudi",
+                                        "jabatan": "Menteri Luar Negeri",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Semarang",
+                                        "tanggal_lahir": "27 November 1962",
+                                        "pendidikan": "International Relations, UI",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Retno_L._P._Marshudi_minister_official_portrait_%282021%29.jpg/375px-Retno_L._P._Marshudi_minister_official_portrait_%282021%29.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Ignasius Jonan",
+                                        "jabatan": "Menteri ESDM",
+                                        "tanggal_dilantik": "14 Oktober 2016",
+                                        "profil": {
+                                        "tempat_lahir": "Surabaya",
+                                        "tanggal_lahir": "21 Juni 1963",
+                                        "pendidikan": "MBA, University of Oxford",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jonan2.jpg/375px-Jonan2.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Luhut Binsar Pandjaitan",
+                                        "jabatan": "Menteri Koordinator Bidang Kemaritiman",
+                                        "tanggal_dilantik": "12 Agustus 2015",
+                                        "profil": {
+                                        "tempat_lahir": "Simalungun",
+                                        "tanggal_lahir": "28 September 1947",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Luhut_Binsar_Panjaitan_Polkam.jpg/113px-Luhut_Binsar_Panjaitan_Polkam.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Thomas Lembong",
+                                        "jabatan": "Kepala BKPM",
+                                        "tanggal_dilantik": "27 Juli 2016",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "4 Maret 1971",
+                                        "pendidikan": "Harvard University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Thomas_Lembong_%28cropped%29.jpg/330px-Thomas_Lembong_%28cropped%29.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Tjahjo Kumolo",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Surakarta",
+                                        "tanggal_lahir": "1 Desember 1957",
+                                        "pendidikan": "Fisipol, Universitas Diponegoro",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KIM_Tjahjo_Kumolo.jpg/330px-KIM_Tjahjo_Kumolo.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Hanif Dhakiri",
+                                        "jabatan": "Menteri Ketenagakerjaan",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Kudus",
+                                        "tanggal_lahir": "6 Juni 1972",
+                                        "pendidikan": "UI",
+                                        "image": "https://thumb.viva.co.id/media/frontend/tokoh/2016/11/10/58241efcab33b-hanif-dhakiri_216_287.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Rudiantara",
+                                        "jabatan": "Menteri Komunikasi dan Informatika",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Bogor",
+                                        "tanggal_lahir": "3 Mei 1959",
+                                        "pendidikan": "University of Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rudiantara.jpg/330px-Rudiantara.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Airlangga Hartarto",
+                                        "jabatan": "Menteri Perindustrian",
+                                        "tanggal_dilantik": "27 Juli 2016",
+                                        "profil": {
+                                        "tempat_lahir": "Surabaya",
+                                        "tanggal_lahir": "1 Oktober 1962",
+                                        "pendidikan": "PhD, Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/KIM_Airlangga_Hartarto.jpg/330px-KIM_Airlangga_Hartarto.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Yohana Yembise",
+                                        "jabatan": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Jayapura",
+                                        "tanggal_lahir": "1 Oktober 1958",
+                                        "pendidikan": "PhD, University of Toronto",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Yohana_Yembise_2017.jpg/330px-Yohana_Yembise_2017.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Anies Baswedan",
+                                        "jabatan": "Menteri Pendidikan dan Kebudayaan",
+                                        "tanggal_dilantik": "27 Oktober 2014",
+                                        "profil": {
+                                        "tempat_lahir": "Kuningan",
+                                        "tanggal_lahir": "7 Mei 1969",
+                                        "pendidikan": "PhD, Northern Illinois University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Anies_Baswedan%2C_Candidate_for_Indonesia%27s_President_in_2024.jpg/330px-Anies_Baswedan%2C_Candidate_for_Indonesia%27s_President_in_2024.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Moeldoko",
+                                        "jabatan": "Kepala Staf Kepresidenan",
+                                        "tanggal_dilantik": "17 Januari 2018",
+                                        "profil": {
+                                        "tempat_lahir": "Kediri",
+                                        "tanggal_lahir": "8 Juli 1957",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Moeldoko-Portrait.jpg/113px-Moeldoko-Portrait.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Asman Abnur",
+                                        "jabatan": "Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+                                        "tanggal_dilantik": "27 Juli 2016",
+                                        "profil": {
+                                        "tempat_lahir": "Padang Pariaman",
+                                        "tanggal_lahir": "2 April 1961",
+                                        "pendidikan": "S1 Manajemen, Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Asman_Abnur_DPR.jpg/375px-Asman_Abnur_DPR.jpg"
+                                        }
+                                }
+                        ]
+                },
+
+                {
+                        "id": "3",
+                        "nama_kabinet": "Kabinet Indonesia Bersatu II",
+                        "periode": "2009-2014",
+                        "presiden": "Susilo Bambang Yudhoyono",
+                        "wakil_presiden": "Boediono",
+                        "image_presiden": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Presiden_Susilo_Bambang_Yudhoyono.png/330px-Presiden_Susilo_Bambang_Yudhoyono.png",
+                        "image_wakil": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Boediono%2C_official_vice_presidential_portrait.jpg/330px-Boediono%2C_official_vice_presidential_portrait.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Hatta Rajasa",
+                                        "jabatan": "Menteri Koordinator Bidang Perekonomian",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Palembang",
+                                        "tanggal_lahir": "18 Desember 1953",
+                                        "pendidikan": "Institut Teknologi Bandung",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hatta_Rajasa2.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Agung Laksono",
+                                        "jabatan": "Menteri Koordinator Bidang Kesejahteraan Rakyat",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Semarang",
+                                        "tanggal_lahir": "23 Maret 1949",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Agung_Laksono.png/375px-Agung_Laksono.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Armida Alisjahbana",
+                                        "jabatan": "Menteri Perencanaan Pembangunan Nasional",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "16 Agustus 1960",
+                                        "pendidikan": "Northwestern University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Menteri_PPN_Armida_S._Alisjahbana.jpg/375px-Menteri_PPN_Armida_S._Alisjahbana.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Muhammad Nuh",
+                                        "jabatan": "Menteri Pendidikan Nasional",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Surabaya",
+                                        "tanggal_lahir": "17 Juni 1959",
+                                        "pendidikan": "Institut Teknologi Sepuluh Nopember",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mohammad_Nuh.jpg/330px-Mohammad_Nuh.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Djoko Kirmanto",
+                                        "jabatan": "Menteri Pekerjaan Umum",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Solo",
+                                        "tanggal_lahir": "5 Desember 1943",
+                                        "pendidikan": "Institut Teknologi Bandung",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kabinet_djoko.jpg/330px-Kabinet_djoko.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Jero Wacik",
+                                        "jabatan": "Menteri Energi dan Sumber Daya Mineral",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Bali",
+                                        "tanggal_lahir": "24 April 1949",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Menteri_ESDM_Jero_Wacik.jpg/330px-Menteri_ESDM_Jero_Wacik.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Gamawan Fauzi",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Sumatera Barat",
+                                        "tanggal_lahir": "9 November 1957",
+                                        "pendidikan": "Universitas Gadjah Mada",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Gamawan_Fauzi.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Suswono",
+                                        "jabatan": "Menteri Pertanian",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Tegal",
+                                        "tanggal_lahir": "20 April 1959",
+                                        "pendidikan": "Institut Pertanian Bogor",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Suswono_Calon_Kepala_Derah_Brebes_2017.jpg/330px-Suswono_Calon_Kepala_Derah_Brebes_2017.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Marty Natalegawa",
+                                        "jabatan": "Menteri Luar Negeri",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Bandung",
+                                        "tanggal_lahir": "22 Maret 1963",
+                                        "pendidikan": "London School of Economics",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marty_Natalegawa_at_the_World_Economic_Forum_on_East_Asia_2011.jpg/330px-Marty_Natalegawa_at_the_World_Economic_Forum_on_East_Asia_2011.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Marie Elka Pangestu",
+                                        "jabatan": "Menteri Pariwisata dan Ekonomi Kreatif",
+                                        "tanggal_dilantik": "22 Oktober 2009",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "23 Oktober 1956",
+                                        "pendidikan": "Australian National University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mari_Elka_Pangestu_RI.jpg/390px-Mari_Elka_Pangestu_RI.jpg"
+                                        }
+                                }
+                        ]
+                },
+
+                {
+                        "id": "4",
+                        "nama_kabinet": "Kabinet Indonesia Bersatu",
+                        "periode": "2004-2009",
+                        "presiden": "Susilo Bambang Yudhoyono",
+                        "wakil_presiden": "Jusuf Kalla",
+                        "image_presiden": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Presiden_Susilo_Bambang_Yudhoyono.png/330px-Presiden_Susilo_Bambang_Yudhoyono.png",
+                        "image_wakil": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jusuf_Kalla_Vice_President_Portrait_2014.jpg/300px-Jusuf_Kalla_Vice_President_Portrait_2014.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Aburizal Bakrie",
+                                        "jabatan": "Menteri Koordinator Bidang Perekonomian",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "15 November 1946",
+                                        "pendidikan": "Institut Teknologi Bandung",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aburizal_Bakrie_-_March_2011.jpeg"
+                                        }
+                                },
+                                {
+                                        "nama": "Agung Laksono",
+                                        "jabatan": "Menteri Koordinator Bidang Kesejahteraan Rakyat",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Semarang",
+                                        "tanggal_lahir": "23 Maret 1949",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Agung_Laksono.png/375px-Agung_Laksono.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Sudirman Said",
+                                        "jabatan": "Menteri Energi dan Sumber Daya Mineral",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Brebes",
+                                        "tanggal_lahir": "16 April 1963",
+                                        "pendidikan": "George Washington University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Menteri_ESDM_Sudirman_Said.jpg/330px-Menteri_ESDM_Sudirman_Said.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Sofyan Djalil",
+                                        "jabatan": "Menteri Komunikasi dan Informatika",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Aceh",
+                                        "tanggal_lahir": "23 September 1953",
+                                        "pendidikan": "Tufts University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KIM_Sofyan_Djalil.jpg/300px-KIM_Sofyan_Djalil.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Mardiyanto",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "9 Mei 2007",
+                                        "profil": {
+                                        "tempat_lahir": "Surakarta",
+                                        "tanggal_lahir": "21 November 1946",
+                                        "pendidikan": "Universitas Gadjah Mada",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/KIB_Mardiyanto.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Siti Fadilah Supari",
+                                        "jabatan": "Menteri Kesehatan",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Surakarta",
+                                        "tanggal_lahir": "6 November 1949",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Anggota_Wantimpres_Bidang_Kesejahteraan_%26_Kesehatan%2C_Siti_Fadilah_Supari.png"
+                                        }
+                                },
+                                {
+                                        "nama": "M. Jusuf Kalla",
+                                        "jabatan": "Wakil Presiden",
+                                        "tanggal_dilantik": "20 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Makassar",
+                                        "tanggal_lahir": "15 Mei 1942",
+                                        "pendidikan": "Universitas Hasanuddin",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jusuf_Kalla_Vice_President_Portrait_2014.jpg/300px-Jusuf_Kalla_Vice_President_Portrait_2014.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Yusril Ihza Mahendra",
+                                        "jabatan": "Menteri Sekretaris Negara",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Belitung",
+                                        "tanggal_lahir": "5 Februari 1956",
+                                        "pendidikan": "University of Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/thumb/2/20/Yusril_Ihza_Mahendra_PBB.png/330px-Yusril_Ihza_Mahendra_PBB.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Sri Mulyani Indrawati",
+                                        "jabatan": "Menteri Keuangan",
+                                        "tanggal_dilantik": "21 Oktober 2005",
+                                        "profil": {
+                                        "tempat_lahir": "Bandar Lampung",
+                                        "tanggal_lahir": "26 Agustus 1962",
+                                        "pendidikan": "University of Illinois Urbana-Champaign",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sri_Mulyani%2C_Menteri_Keuangan_%282021%29.jpg/300px-Sri_Mulyani%2C_Menteri_Keuangan_%282021%29.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Juwono Sudarsono",
+                                        "jabatan": "Menteri Pertahanan",
+                                        "tanggal_dilantik": "21 Oktober 2004",
+                                        "profil": {
+                                        "tempat_lahir": "Ciamis",
+                                        "tanggal_lahir": "5 Maret 1942",
+                                        "pendidikan": "London School of Economics",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Menteri_Pertahanan_Juwono_Sudarsono.jpg/375px-Menteri_Pertahanan_Juwono_Sudarsono.jpg"
+                                        }
+                                }
+                        ]
+                },
+
+                {
+                        "id": "5",
+                        "nama_kabinet": "Kabinet Gotong Royong",
+                        "periode": "2001-2004",
+                        "presiden": "Megawati Soekarnoputri",
+                        "wakil_presiden": "Hamzah Haz",
+                        "image_presiden": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/President_Megawati_Sukarnoputri_-_Indonesia.jpg/330px-President_Megawati_Sukarnoputri_-_Indonesia.jpg",
+                        "image_wakil": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hamzah_Haz_Official_Portrait.jpg/330px-Hamzah_Haz_Official_Portrait.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Susilo Bambang Yudhoyono",
+                                        "jabatan": "Menteri Koordinator Bidang Politik dan Keamanan",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Pacitan",
+                                        "tanggal_lahir": "9 September 1949",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Presiden_Susilo_Bambang_Yudhoyono.png/330px-Presiden_Susilo_Bambang_Yudhoyono.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Dorodjatun Kuntjoro-Jakti",
+                                        "jabatan": "Menteri Koordinator Bidang Perekonomian",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "25 November 1939",
+                                        "pendidikan": "University of California, Berkeley",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dorodjatun_Kuntjoro-Jakti%2C_Duta_Besar_RI_untuk_Amerika_Serikat_%28cropped%29.jpg/330px-Dorodjatun_Kuntjoro-Jakti%2C_Duta_Besar_RI_untuk_Amerika_Serikat_%28cropped%29.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Hamzah Haz",
+                                        "jabatan": "Wakil Presiden",
+                                        "tanggal_dilantik": "26 Juli 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Pontianak",
+                                        "tanggal_lahir": "15 Februari 1940",
+                                        "pendidikan": "Universitas Islam Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hamzah_Haz_Official_Portrait.jpg/330px-Hamzah_Haz_Official_Portrait.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Hassan Wirajuda",
+                                        "jabatan": "Menteri Luar Negeri",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Tangerang",
+                                        "tanggal_lahir": "9 Juli 1948",
+                                        "pendidikan": "Harvard Law School",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hassan_Wirajuda%2C_Foreign_Minister.jpg/315px-Hassan_Wirajuda%2C_Foreign_Minister.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Mohammad Ma'ruf",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Yogyakarta",
+                                        "tanggal_lahir": "2 November 1945",
+                                        "pendidikan": "Universitas Gadjah Mada",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/KIB_Mohammad_Ma%27ruf.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Kwik Kian Gie",
+                                        "jabatan": "Menteri Perencanaan Pembangunan Nasional/Kepala Bappenas",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Juwana, Pati",
+                                        "tanggal_lahir": "11 Januari 1935",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kwik_Kian_Gie.jpg/225px-Kwik_Kian_Gie.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Yusril Ihza Mahendra",
+                                        "jabatan": "Menteri Kehakiman dan Hak Asasi Manusia",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Belitung",
+                                        "tanggal_lahir": "5 Februari 1956",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/thumb/2/20/Yusril_Ihza_Mahendra_PBB.png/330px-Yusril_Ihza_Mahendra_PBB.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Laksamana Sukardi",
+                                        "jabatan": "Menteri Negara BUMN",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "1 Oktober 1956",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/7/78/KPN_Laksamana_Sukardi.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Rini Soemarno",
+                                        "jabatan": "Menteri Perindustrian dan Perdagangan",
+                                        "tanggal_dilantik": "10 Agustus 2001",
+                                        "profil": {
+                                        "tempat_lahir": "Maryland, AS",
+                                        "tanggal_lahir": "9 Juni 1958",
+                                        "pendidikan": "Wellesley College",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kabinet_Kerja_Rini_M.Soemarno.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Hari Sabarno",
+                                        "jabatan": "Menteri Dalam Negeri",
+                                        "tanggal_dilantik": "10 Agustus 2003",
+                                        "profil": {
+                                        "tempat_lahir": "Surakarta",
+                                        "tanggal_lahir": "12 Agustus 1944",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hari_Sabarno%2C_The_DPR-RI_Stance_on_the_Reform_Process_and_the_Resignation_of_President_Soeharto%2C_p40.jpg/330px-Hari_Sabarno%2C_The_DPR-RI_Stance_on_the_Reform_Process_and_the_Resignation_of_President_Soeharto%2C_p40.jpg"
+                                        }
+                                }
+                        ]
+                },
+
+                {
+                        "id": "6",
+                        "nama_kabinet": "Kabinet Persatuan Nasional",
+                        "periode": "1999-2001",
+                        "presiden": "Abdurrahman Wahid",
+                        "wakil_presiden": "Megawati Soekarnoputri",
+                        "image_presiden": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/President_Abdurrahman_Wahid_-_Indonesia.jpg/330px-President_Abdurrahman_Wahid_-_Indonesia.jpg",
+                        "image_wakil": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/President_Megawati_Sukarnoputri_-_Indonesia.jpg/330px-President_Megawati_Sukarnoputri_-_Indonesia.jpg",
+                        "anggota_kabinet": [
+                                {
+                                        "nama": "Susilo Bambang Yudhoyono",
+                                        "jabatan": "Menteri Koordinator Bidang Politik dan Keamanan",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Pacitan",
+                                        "tanggal_lahir": "9 September 1949",
+                                        "pendidikan": "Akademi Militer",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Presiden_Susilo_Bambang_Yudhoyono.png/330px-Presiden_Susilo_Bambang_Yudhoyono.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Kwik Kian Gie",
+                                        "jabatan": "Menteri Koordinator Bidang Ekonomi, Keuangan, dan Industri",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Juwana, Pati",
+                                        "tanggal_lahir": "11 Januari 1935",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kwik_Kian_Gie.jpg/225px-Kwik_Kian_Gie.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Mahfud MD",
+                                        "jabatan": "Menteri Pertahanan",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Sampang",
+                                        "tanggal_lahir": "13 Mei 1957",
+                                        "pendidikan": "Universitas Islam Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/KIM_Mahfud_MD.jpg/330px-KIM_Mahfud_MD.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Alwi Shihab",
+                                        "jabatan": "Menteri Luar Negeri",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Rappang",
+                                        "tanggal_lahir": "19 Agustus 1946",
+                                        "pendidikan": "Al-Azhar University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Alwi_Shihab.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Bacharuddin Jusuf Habibie",
+                                        "jabatan": "Menteri Riset dan Teknologi",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Parepare",
+                                        "tanggal_lahir": "25 Juni 1936",
+                                        "pendidikan": "RWTH Aachen University",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/B._J._Habibie%2C_President_of_Indonesia_portrait.jpg/330px-B._J._Habibie%2C_President_of_Indonesia_portrait.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Laksamana Sukardi",
+                                        "jabatan": "Menteri Negara BUMN",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Jakarta",
+                                        "tanggal_lahir": "1 Oktober 1956",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/7/78/KPN_Laksamana_Sukardi.png"
+                                        }
+                                },
+                                {
+                                        "nama": "Hamzah Haz",
+                                        "jabatan": "Menteri Koordinator Bidang Kesejahteraan Rakyat",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Pontianak",
+                                        "tanggal_lahir": "15 Februari 1940",
+                                        "pendidikan": "Universitas Islam Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hamzah_Haz_Official_Portrait.jpg/330px-Hamzah_Haz_Official_Portrait.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Rozy Munir",
+                                        "jabatan": "Menteri Perhubungan",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Sumenep",
+                                        "tanggal_lahir": "2 Juli 1954",
+                                        "pendidikan": "Universitas Gadjah Mada",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/c/c2/Rozy_Munir.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Marzuki Darusman",
+                                        "jabatan": "Jaksa Agung",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Bogor",
+                                        "tanggal_lahir": "26 Januari 1945",
+                                        "pendidikan": "Universitas Indonesia",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_Nations%27_Independent_International_Fact-finding_Mission_on_Myanmar_chairperson_Marzuki_Darusman.jpg/330px-United_Nations%27_Independent_International_Fact-finding_Mission_on_Myanmar_chairperson_Marzuki_Darusman.jpg"
+                                        }
+                                },
+                                {
+                                        "nama": "Ryaas Rasyid",
+                                        "jabatan": "Menteri Otonomi Daerah",
+                                        "tanggal_dilantik": "26 Oktober 1999",
+                                        "profil": {
+                                        "tempat_lahir": "Makassar",
+                                        "tanggal_lahir": "10 Januari 1949",
+                                        "pendidikan": "University of Hawaii",
+                                        "image": "https://upload.wikimedia.org/wikipedia/id/6/6a/Ryaas_Rasyid.jpg"
+                                        }
+                                }
+                        ]
+                }
+        ]
+}
